@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Contato</title>
+    <link rel="stylesheet" href="Breset.css">
+    <link rel="stylesheet" href="Bcontatopage.css">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@1,500&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <div class="caixacentral">
+            <h1><img src="img03.jpg" alt="Logo Event Horizons"></h1>
+            <nav>
+                <ul>
+                    <li><a href="Ahomepage.html">Home</a></li>
+                    <li><a href="Ainicialpage.html">The Beginning</a></li>
+                    <li><a>Planetas e Galáxias</a></li>
+                    <li><a>Cometas</a></li>
+                    <li><a>Nebulosas</a></li>
+                    <li><a>Foguetes</a></li>
+                    <li><a href="Acontatopage.html">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <form>
+            <label for="nomesobrenome">Nome e Sobrenome</label>
+            <input type="text" id="nomesobrenome" class="input-padrao">
+            <label for="email">email</label>
+            <input type="email" id="email" class="input-padrao" required placeholder="seuemail@dominio.com">
+            <label for="Telefone">Telefone</label>
+            <input type="tel" id="Telefone" class="input-padrao" required placeholder="(xx)x-xxxx-xxxx">
+            <label for="mensagem">Mensagem</label>
+            <textarea cols="70" rows="10" id="Mensagem" class="input-padrao" required></textarea>
+            <fieldset>
+                <legend>Como prefere nosso contato?</legend>
+                <label for="radio-email"></label><input type="radio" name="contato" value="Email" id="radio-Email">Email</label>
+                <label for="radio-telefone"></label><input type="radio" name="contato" value="telefone" id="radio-telefone">Telefone</label>
+                <label for="radio-whatsapp"></label><input type="radio" name="contato" value="whatsapp" id="radio-whatsapp" checked>WhatsApp</label>
+            </fieldset>
+            <fieldset class="options">
+                <legend>Quais assuntos abaixo vocês querem com mais destaque?</legend>
+                <select>
+                    <option>Planetas e Galáxias</option>
+                    <option>Cometas</option>
+                    <option>Nebulosas</option>
+                    <option>Foguetes</option>
+                </select>
+            </fieldset>
+            <label class="chekbox"><input type="checkbox" checked>Gostaria de receber nossas novidades por E-mail?</label>
+            <input type="submit" value="Enviar formulário" class="enviar">
+        </form>
+        <fieldset class="options">
+            <legend>Horário de live do Observatório Online</legend>
+            <fieldset>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Dia</th>
+                            <th>Horário</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Segunda</td>
+                            <td>18h ~ 23h</td>
+                        </tr>
+                        <tr>
+                            <td>Quarta</td>
+                            <td>18h ~ 23h</td>
+                        </tr>
+                        <tr>
+                            <td>Sexta</td>
+                            <td>18h ~ 23h</td>
+                        </tr>
+                        <tr>
+                            <td>Sabádo</td>
+                            <td>18h ~ 21h</td>
+                        </tr>
+                        <tr>
+                            <td>Domingo</td>
+                            <td>18h ~ 21h</td>
+                        </tr>
+                        <tr>
+                            <td>Feriado</td>
+                            <td>18h ~ 21h</td>
+                        </tr>
+                    </tbody>
+                </table>
+    </main>
+    <footer>
+        <img class="imgrodape" src="img12.jpg" alt="Logo Event Horizons">
+        <p class="copyrigth">&copy; Copyright Events Horizons - 2022</p>
+    </footer>
