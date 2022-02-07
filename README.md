@@ -18,10 +18,16 @@
 
 ![Telefone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) - 55+(19)9-8351-4369
 
-<h1> Redes Sociais 🙋‍♂️ ✔️ </h1>
+<h1> Redes Sociais 🙋‍♂️ </h1>
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) - https://www.linkedin.com/in/edsonbonelli/
 
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) - https://www.facebook.com/edsonebonelli
 
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) - https://www.instagram.com/ee.bonelli/
+
+<h1> Feedback 📜 </h1>
+
+<p>Sinta-se a vontade em ver meu Code e fazer comentários sobre, estou começando agora então qualquer análise, críticas e ensinamentos serão muito bem vindo.</p>
+
+![Feedback](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg) - edson.eduardoengbonelli@gmail.com
