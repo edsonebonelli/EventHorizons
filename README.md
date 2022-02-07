@@ -15,6 +15,7 @@
 <h1> Contato ✔️ </h1>
 
 ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - edson.eduardoengbonelli@gmail.com
+
 ![Telefone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) - 55+(19)9-8351-4369
 
 <h1> Redes Sociais 🙋‍♂️ ✔️ </h1>
